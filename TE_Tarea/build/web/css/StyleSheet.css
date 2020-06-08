@@ -1,0 +1,18 @@
+
+h1{
+    color: yellowgreen;
+    text-align: center;
+}
+p{
+   color: red;
+   text-align: center; 
+}
+#formulario{
+    margin: 0 auto;
+    align-content: center;
+    border-radius: 10px;
+    border:1px solid #666666;
+    width:500px;
+    background: #FFFFAA;
+    
+}
